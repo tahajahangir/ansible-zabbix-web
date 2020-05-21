@@ -29,6 +29,7 @@
       - php-{{ zabbix_server_database }}
       - php-bcmath
       - php-mbstring
+      - php-json
       - php-ldap
       - php-xml
       - php-gd
